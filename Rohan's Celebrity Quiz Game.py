@@ -1,8 +1,5 @@
 #Title of Celeb Quiz Game
 
-print("")
-print("Welcome to Rohan's Celebrity Quiz Game!")
-print("")
 
 #-----------------------------------------------------------------------------------------------------------------------
 #Introduction to the game
